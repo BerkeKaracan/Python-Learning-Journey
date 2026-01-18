@@ -1,0 +1,1 @@
+Note: This project originated as a personal prototype (V1). The current version (V2) features code refactoring and optimizations assisted by AI tools to enhance performance and readability.
