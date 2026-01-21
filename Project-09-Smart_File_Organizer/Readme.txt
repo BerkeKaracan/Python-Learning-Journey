@@ -18,8 +18,8 @@ A Python-based automation tool that instantly organizes chaotic directories into
 
 ## 🛠️ Built With
 
-* **Python 3.x**
-* **Libraries:** `os`, `shutil`, `time`
+* **Python 3.13
+* **Libraries: `os`, `shutil`, `time`
 
 ## 💻 How to Run
 
