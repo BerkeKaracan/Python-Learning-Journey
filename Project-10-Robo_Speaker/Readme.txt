@@ -12,7 +12,7 @@ A Python-based **Text-to-Speech (TTS)** assistant that converts user input into 
 
 ## 🛠️ Tech Stack & Libraries
 
-* **Python 3.13
+* **Python 3.13**
 * **gTTS** (Google Text-to-Speech) - *For API communication.*
 * **Pygame** - *For audio mixer and playback control.*
 * **OS & Random** - *For file system operations and unique naming.*
@@ -21,7 +21,7 @@ A Python-based **Text-to-Speech (TTS)** assistant that converts user input into 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/BerkeKaracan/Python-Projects.git](https://github.com/BerkeKaracan/Python-Projects.git)
+    git clone https://github.com/BerkeKaracan/Python-Projects.git
     cd Python-Projects
     ```
 

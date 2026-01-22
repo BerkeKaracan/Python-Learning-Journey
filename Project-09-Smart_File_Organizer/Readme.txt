@@ -18,14 +18,14 @@ A Python-based automation tool that instantly organizes chaotic directories into
 
 ## 🛠️ Built With
 
-* **Python 3.13
-* **Libraries: `os`, `shutil`, `time`
+* **Python 3.13**
+* **Libraries: `os`, `shutil`, `time`** *
 
 ## 💻 How to Run
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/BerkeKaracan/Python-Projects.git](https://github.com/BerkeKaracan/Python-Projects.git)
+    git clone https://github.com/BerkeKaracan/Python-Projects.git
     ```
 2.  Navigate to the directory:
     ```bash

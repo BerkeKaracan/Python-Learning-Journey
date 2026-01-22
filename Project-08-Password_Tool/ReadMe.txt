@@ -12,14 +12,14 @@ A Python-based CLI (Command Line Interface) tool designed to analyze password st
 
 ## 🛠️ Built With
 
-* **Python 3.13
-* **Libraries: `random`, `string`
+* **Python 3.13**
+* **Libraries: `random`, `string`** *
 
 ## 💻 How to Run
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/BerkeKaracan/Python-Projects.git](https://github.com/BerkeKaracan/Python-Projects.git)
+    git clone https://github.com/BerkeKaracan/Python-Projects.git
     ```
 2.  Navigate to the directory:
     ```bash
