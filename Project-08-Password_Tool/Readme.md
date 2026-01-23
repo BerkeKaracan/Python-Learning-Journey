@@ -13,7 +13,7 @@ A Python-based CLI (Command Line Interface) tool designed to analyze password st
 ## 🛠️ Built With
 
 * **Python 3.13**
-* **Libraries: `random`, `string`** *
+* **Libraries: `random`, `string`** 
 
 ## 💻 How to Run
 
