@@ -88,7 +88,3 @@ coliseum = Arena(spartacus,crixus)
 coliseum.start_battle()
 
 
-
-
-
-
